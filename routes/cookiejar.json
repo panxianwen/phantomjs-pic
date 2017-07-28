@@ -1,0 +1,29 @@
+[
+{
+    "domain": "localhost",
+    "expirationDate": 1500783353,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "_ks_cookie_loginStatus",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%7B%22userId%22%3A%2244%22%2C%22token%22%3A%22a1688d33-d0e9-43d3-baa7-af824b025486%22%2C%22isRemember%22%3Atrue%2C%22realName%22%3A%22%u4E1C%u65B9%u56FD%u4FE1%u6D4B%u8BD5%22%2C%22deptName%22%3A%22%u7814%u53D1%u90E8%22%7D",
+    "id": 1
+},
+{
+    "domain": "localhost",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "a1688d33-d0e9-43d3-baa7-af824b025486",
+    "id": 2
+}
+]

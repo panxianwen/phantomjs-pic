@@ -1,0 +1,5 @@
+.idea
+/*.log
+/*.png
+/node_modules/
+
